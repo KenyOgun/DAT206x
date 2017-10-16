@@ -1,0 +1,3 @@
+> In this lab, you will explore an Excel workbook that has a data model loaded into it. You will also create calculated columns in the data model, apply formatting, and create implicit and explicit measures. You will then use the data model to create pivot tables and perform some analysis with the data.
+
+You should see a blank worksheet when opening the file. Open the Data Model by selecting the Manage Data Model icon from either the Data or PowerPivot tabs in Excel 2016; from the PowerPivot tab in Excel 2013; or the Power Pivot Window icon from the PowerPivot tab in Excel 2010.The data has been loaded to the Excel data model. You don't need to refresh or edit the data.
