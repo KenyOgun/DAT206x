@@ -10,3 +10,5 @@ The company uses a logical operator in the column/field named isVanArsdel to tra
 You will use this file to review VanArsdel's sales in Canada.
 
 In this lab, you will explore an Excel report that has a dashboard created using Excel pivot charts and slicers based on data from Excel sheets. You will then extend the dashboard by adding a pivot table and apply conditional formatting to the pivot table.
+
+You want to analyze the percentage of the VanArsdel sales in Canada that come from VanArsdel's manufactured goods, by each State (Province). While the chart "Sales by State" shows an overview of this information, you want to show the exact percentage (to two decimal places) of VanArsdel's sales from VanArsdel's manufactured goods. Remember – VanArsdel sells both their own manufactured goods as well as goods from other manufacturers. Finally, you want to highlight if VanArsdel's "share" of goods sold by manufacturer for that state is less than the overall VanArsdel's "share" for the country.
